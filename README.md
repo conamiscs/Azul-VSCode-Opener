@@ -19,6 +19,7 @@ pip install fastapi uvicorn pydantic
 2. Configure the script:
    - Your sync path
    - The path to your VS Code executable
+   - The path to your sourcemap.json
 3. Install the Roblox Studio plugin
 
 ## Roblox Studio Plugin:
